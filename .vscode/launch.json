@@ -18,7 +18,8 @@
             ],
             "searchDir": [],
             "runToEntryPoint": "main",
-            "showDevDebugOutput": "raw"
+            "showDevDebugOutput": "none",
+            "svdFile": "stm32f303.svd"
         }
     ]
 }
